@@ -17,7 +17,7 @@ int reflector[26] = { 9, 11, 8, 22, 14, 7, 21, 5, 2, 0, 20, 1, 17, 16, 4, 25, 13
 int rotorPos[3] = { 0, 0, 0 };
 
 LiquidCrystal_I2C lcd(0x27, 16,2);
-
+/* Yassa Seifen - 19/9/2022 */
 /************************************/
 void setup() {
   Serial.begin(9600);
