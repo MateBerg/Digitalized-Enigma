@@ -9,6 +9,7 @@ The security of the system depends on machine settings that were generally chang
 ## Used Tools: 
 - Arduino Nano.
 - IR Remote.
+- IR Reciever 1838b.
 - LCD 1602.
 - I2C Module.
 
